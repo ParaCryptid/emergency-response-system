@@ -1,0 +1,6 @@
+flask
+flask-socketio
+geojson
+transformers
+torch
+eventlet
