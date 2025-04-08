@@ -1,0 +1,1 @@
+#!/bin/bash\necho "Creating bootable ISO image..."

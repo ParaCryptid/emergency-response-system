@@ -1,0 +1,1 @@
+#!/bin/bash\necho "Building .pkg for macOS..."
